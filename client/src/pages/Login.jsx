@@ -77,7 +77,7 @@ const Login = () => {
         </form>
 
         <div className='flex justify-end items-center ml-40 mt-1 gap-1'>
-          <p className='font-thin'>Not a user?</p>
+          <p className='font-thin'>Not Registered</p>
           <span className='font-semibold text-black underline'>
             <Link to={'/signup'}>Register</Link>
           </span>
